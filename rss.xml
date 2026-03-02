@@ -3,16 +3,16 @@
   <channel>
     <title>graduate-portfolio-template</title>
     <link>https://haxcms.ddev.site/sites/graduate-portfolio-template/</link>
-    <description></description>
+    <description>skeleton from-skeleton</description>
     <copyright>Copyright (C) 2026 https://haxcms.ddev.site/sites/graduate-portfolio-template</copyright>
-    <language>en</language>
+    <language>en-US</language>
     <lastBuildDate>Mon, 02 Mar 2026 15:09:55 -0500</lastBuildDate>
     <generator>HAXcms PHP</generator>
     <atom:link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Home</title>
+      <title>About Me</title>
       <link>https://haxcms.ddev.site/sites/graduate-portfolio-template/home</link>
-      <description>Edit this page to get started on your HAX site!</description>
+      <description>Welcome to my portfolio! I'm Winston, a third-year student in Mathematics Education!</description>
       <guid>https://haxcms.ddev.site/sites/graduate-portfolio-template/home</guid>
       <pubDate>Mon, 02 Mar 2026 15:09:55 -0500</pubDate>
     </item>

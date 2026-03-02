@@ -53,18 +53,21 @@
             "indent": 0,
             "location": "pages\/item-home-clean-portfolio-theme\/index.html",
             "slug": "home",
-            "order": "0",
+            "order": 0,
             "parent": null,
-            "title": "Home",
-            "description": "",
+            "title": "About Me",
+            "description": "Welcome to my portfolio! I'm Winston, a third-year student in Mathematics Education!",
             "metadata": {
-                "published": "1",
-                "hideInMenu": "",
-                "tags": [],
+                "published": true,
+                "hideInMenu": false,
                 "created": 1772482195,
-                "updated": 1772482195
+                "updated": 1772484991,
+                "locked": false,
+                "readtime": 1,
+                "videos": [],
+                "images": []
             }
         }
     ],
-    "location": "\/sites\/graduate-portfolio-template\/index.html"
+    "location": null
 }
