@@ -50,4 +50,18 @@
  ]]>
     </content>
   </entry>
+  <entry>
+    <title>Publications</title>
+    <id>item-2d9d2166-d526-44a9-ae42-bf9fc431d8e7</id>
+    <updated>2026-03-02T16:35:47-05:00</updated>
+    <published>2026-03-02T16:35:43-05:00</published>
+    <summary></summary>
+    <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/publications"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<p></p>
+ ]]>
+    </content>
+  </entry>
 </feed>
