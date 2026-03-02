@@ -75,11 +75,11 @@
             "slug": "new-page",
             "order": 1,
             "parent": null,
-            "title": "Area of Specialization",
+            "title": "Specialization",
             "description": "",
             "metadata": {
                 "created": 1772486857,
-                "updated": 1772486932,
+                "updated": 1772487232,
                 "images": [],
                 "videos": [],
                 "published": true,
