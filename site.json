@@ -2,26 +2,49 @@
     "id": "eb043d86-4545-4bd0-8e04-cf3ec7aff293",
     "title": "graduate-portfolio-template",
     "author": "",
-    "description": "",
+    "description": "skeleton from-skeleton",
     "license": "by-sa",
     "metadata": {
         "author": {},
         "site": {
+            "name": "graduate-portfolio-template",
+            "logo": "assets\/banner.jpg",
             "settings": {
-                "lang": "en",
-                "private": false,
+                "lang": "en-US",
+                "publishPagesOn": true,
                 "canonical": true
             },
-            "name": "graduate-portfolio-template",
-            "domain": null,
             "created": 1772482195,
-            "updated": 1772482195
+            "updated": 1772482195,
+            "git": {
+                "vendor": "github",
+                "branch": "gh-pages"
+            }
         },
         "theme": {
-            "variables": {}
+            "element": "clean-portfolio-theme",
+            "path": "@haxtheweb\/clean-portfolio-theme\/clean-portfolio-theme.js",
+            "name": "Clean Portfolio Theme",
+            "thumbnail": "@haxtheweb\/haxcms-elements\/lib\/theme-screenshots\/theme-clean-portfolio-theme-thumb.jpg",
+            "description": "Start with a blank site using the Clean Portfolio Theme",
+            "category": [
+                "Website"
+            ],
+            "hidden": false,
+            "terrible": false,
+            "variables": {
+                "icon": "av:explicit",
+                "hexCode": "#aeff00",
+                "cssVariable": "--simple-colors-default-theme-light-blue-7"
+            }
         },
         "node": {
             "fields": {}
+        },
+        "build": {
+            "version": "25.0.0",
+            "structure": "from-skeleton",
+            "type": "skeleton"
         }
     },
     "items": [
