@@ -25,16 +25,17 @@
   <entry>
     <title>Specialization</title>
     <id>item-1c280f2b-d269-453d-9d42-22a2034c7175</id>
-    <updated>2026-03-02T16:50:33-05:00</updated>
+    <updated>2026-03-02T16:50:59-05:00</updated>
     <published>2026-03-02T16:27:37-05:00</published>
     <summary>Area of SpecializationBest Example of Work</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/new-page"/>
     
     <content type="html">
       <![CDATA[ 
-<h2>Area of Specialization</h2>
-<p></p>
-<h2>Best Example of Work</h2>
+<h2 id="h2--1461500319">Area of Specialization</h2>
+<p>Work</p>
+<h2 id="h2--183548696">Best Example of Work</h2>
+<p>Deep thoughts..</p>
  ]]>
     </content>
   </entry>
