@@ -15,7 +15,7 @@
                 "canonical": true
             },
             "created": 1772482195,
-            "updated": 1772482195,
+            "updated": 1772487386,
             "git": {
                 "vendor": "github",
                 "branch": "gh-pages"
@@ -58,74 +58,15 @@
             "title": "About",
             "description": "Welcome to my portfolio! I'm Winston, a third-year student in Mathematics Education!",
             "metadata": {
-                "published": true,
-                "hideInMenu": false,
-                "created": 1772482195,
-                "updated": 1772487241,
-                "locked": false,
-                "readtime": 1,
+                "published": "1",
+                "hideInMenu": "",
+                "created": "1772482195",
+                "updated": 1772487386,
+                "locked": "",
+                "readtime": "1",
                 "videos": [],
-                "images": []
-            }
-        },
-        {
-            "id": "item-1c280f2b-d269-453d-9d42-22a2034c7175",
-            "indent": 0,
-            "location": "pages\/item-1c280f2b-d269-453d-9d42-22a2034c7175\/index.html",
-            "slug": "new-page",
-            "order": 1,
-            "parent": null,
-            "title": "Specialization",
-            "description": "",
-            "metadata": {
-                "created": 1772486857,
-                "updated": 1772487232,
                 "images": [],
-                "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 1
-            }
-        },
-        {
-            "id": "item-df2d214b-3dc2-481f-9428-383830d240ed",
-            "indent": 0,
-            "location": "pages\/item-df2d214b-3dc2-481f-9428-383830d240ed\/index.html",
-            "slug": "philosophy",
-            "order": 2,
-            "parent": null,
-            "title": "Philosophy",
-            "description": "",
-            "metadata": {
-                "created": 1772487312,
-                "updated": 1772487317,
-                "images": [],
-                "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 1
-            }
-        },
-        {
-            "id": "item-2d9d2166-d526-44a9-ae42-bf9fc431d8e7",
-            "indent": 0,
-            "location": "pages\/item-2d9d2166-d526-44a9-ae42-bf9fc431d8e7\/index.html",
-            "slug": "publications",
-            "order": 3,
-            "parent": null,
-            "title": "Publications",
-            "description": "",
-            "metadata": {
-                "created": 1772487343,
-                "updated": 1772487347,
-                "images": [],
-                "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 1
+                "status": ""
             }
         },
         {
@@ -133,19 +74,83 @@
             "indent": 0,
             "location": "pages\/item-896b5ef1-0398-4efe-a522-cfced24f947f\/index.html",
             "slug": "competency",
-            "order": 4,
+            "order": 1,
             "parent": null,
             "title": "Competency",
             "description": "",
             "metadata": {
-                "created": 1772487372,
-                "updated": 1772487375,
+                "created": "1772487372",
+                "updated": 1772487386,
                 "images": [],
                 "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 1
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-1c280f2b-d269-453d-9d42-22a2034c7175",
+            "indent": 0,
+            "location": "pages\/item-1c280f2b-d269-453d-9d42-22a2034c7175\/index.html",
+            "slug": "new-page",
+            "order": 2,
+            "parent": null,
+            "title": "Specialization",
+            "description": "",
+            "metadata": {
+                "created": "1772486857",
+                "updated": 1772487386,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-df2d214b-3dc2-481f-9428-383830d240ed",
+            "indent": 0,
+            "location": "pages\/item-df2d214b-3dc2-481f-9428-383830d240ed\/index.html",
+            "slug": "philosophy",
+            "order": 3,
+            "parent": null,
+            "title": "Philosophy",
+            "description": "",
+            "metadata": {
+                "created": "1772487312",
+                "updated": 1772487386,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-2d9d2166-d526-44a9-ae42-bf9fc431d8e7",
+            "indent": 0,
+            "location": "pages\/item-2d9d2166-d526-44a9-ae42-bf9fc431d8e7\/index.html",
+            "slug": "publications",
+            "order": 4,
+            "parent": null,
+            "title": "Publications",
+            "description": "",
+            "metadata": {
+                "created": "1772487343",
+                "updated": 1772487386,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "1",
+                "status": ""
             }
         }
     ],
