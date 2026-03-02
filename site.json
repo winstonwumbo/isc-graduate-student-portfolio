@@ -133,15 +133,19 @@
             "indent": 0,
             "location": "pages\/item-896b5ef1-0398-4efe-a522-cfced24f947f\/index.html",
             "slug": "competency",
-            "order": "4",
+            "order": 4,
             "parent": null,
             "title": "Competency",
             "description": "",
             "metadata": {
                 "created": 1772487372,
-                "updated": 1772487372,
+                "updated": 1772487375,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         }
     ],

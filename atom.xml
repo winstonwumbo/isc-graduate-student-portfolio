@@ -64,4 +64,18 @@
  ]]>
     </content>
   </entry>
+  <entry>
+    <title>Competency</title>
+    <id>item-896b5ef1-0398-4efe-a522-cfced24f947f</id>
+    <updated>2026-03-02T16:36:15-05:00</updated>
+    <published>2026-03-02T16:36:12-05:00</published>
+    <summary></summary>
+    <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/competency"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<p></p>
+ ]]>
+    </content>
+  </entry>
 </feed>
