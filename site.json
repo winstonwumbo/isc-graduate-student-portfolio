@@ -1,0 +1,47 @@
+{
+    "id": "eb043d86-4545-4bd0-8e04-cf3ec7aff293",
+    "title": "graduate-portfolio-template",
+    "author": "",
+    "description": "",
+    "license": "by-sa",
+    "metadata": {
+        "author": {},
+        "site": {
+            "settings": {
+                "lang": "en",
+                "private": false,
+                "canonical": true
+            },
+            "name": "graduate-portfolio-template",
+            "domain": null,
+            "created": 1772482195,
+            "updated": 1772482195
+        },
+        "theme": {
+            "variables": {}
+        },
+        "node": {
+            "fields": {}
+        }
+    },
+    "items": [
+        {
+            "id": "item-home-clean-portfolio-theme",
+            "indent": 0,
+            "location": "pages\/item-home-clean-portfolio-theme\/index.html",
+            "slug": "home",
+            "order": "0",
+            "parent": null,
+            "title": "Home",
+            "description": "",
+            "metadata": {
+                "published": "1",
+                "hideInMenu": "",
+                "tags": [],
+                "created": 1772482195,
+                "updated": 1772482195
+            }
+        }
+    ],
+    "location": "\/sites\/graduate-portfolio-template\/index.html"
+}

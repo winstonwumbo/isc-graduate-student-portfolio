@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>graduate-portfolio-template</title>
+  <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/" rel="self" />
+  <subtitle></subtitle>
+  <updated>2026-03-02T15:09:55-05:00</updated>
+  <author>
+      <name></name>
+  </author>
+  <id>https://haxcms.ddev.site/sites/graduate-portfolio-template/</id>
+  <entry>
+    <title>Home</title>
+    <id>item-home-clean-portfolio-theme</id>
+    <updated>2026-03-02T15:09:55-05:00</updated>
+    <published>2026-03-02T15:09:55-05:00</published>
+    <summary></summary>
+    <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/home"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Edit this page to get started on your HAX site!</p> ]]>
+    </content>
+  </entry>
+</feed>
