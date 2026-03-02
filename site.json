@@ -67,6 +67,22 @@
                 "videos": [],
                 "images": []
             }
+        },
+        {
+            "id": "item-1c280f2b-d269-453d-9d42-22a2034c7175",
+            "indent": 0,
+            "location": "pages\/item-1c280f2b-d269-453d-9d42-22a2034c7175\/index.html",
+            "slug": "new-page",
+            "order": "1",
+            "parent": null,
+            "title": "New Page",
+            "description": "",
+            "metadata": {
+                "created": 1772486857,
+                "updated": 1772486857,
+                "images": [],
+                "videos": []
+            }
         }
     ],
     "location": null
