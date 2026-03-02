@@ -93,15 +93,19 @@
             "indent": 0,
             "location": "pages\/item-df2d214b-3dc2-481f-9428-383830d240ed\/index.html",
             "slug": "philosophy",
-            "order": "2",
+            "order": 2,
             "parent": null,
             "title": "Philosophy",
             "description": "",
             "metadata": {
                 "created": 1772487312,
-                "updated": 1772487312,
+                "updated": 1772487317,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         }
     ],

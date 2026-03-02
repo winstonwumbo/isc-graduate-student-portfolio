@@ -36,4 +36,18 @@
  ]]>
     </content>
   </entry>
+  <entry>
+    <title>Philosophy</title>
+    <id>item-df2d214b-3dc2-481f-9428-383830d240ed</id>
+    <updated>2026-03-02T16:35:17-05:00</updated>
+    <published>2026-03-02T16:35:12-05:00</published>
+    <summary></summary>
+    <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/philosophy"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<p></p>
+ ]]>
+    </content>
+  </entry>
 </feed>
