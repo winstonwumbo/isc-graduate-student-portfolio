@@ -98,16 +98,16 @@
             "order": 2,
             "parent": null,
             "title": "Specialization",
-            "description": "",
+            "description": "Area of SpecializationBest Example of Work",
             "metadata": {
                 "created": "1772486857",
-                "updated": 1772487386,
+                "updated": 1772488233,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1,
                 "status": ""
             }
         },
