@@ -58,12 +58,12 @@
             "title": "About",
             "description": "Welcome to my portfolio! I'm Winston, a third-year student in Mathematics Education!",
             "metadata": {
-                "published": "1",
-                "hideInMenu": "",
+                "published": true,
+                "hideInMenu": false,
                 "created": "1772482195",
-                "updated": 1772487386,
-                "locked": "",
-                "readtime": "1",
+                "updated": 1773859765,
+                "locked": false,
+                "readtime": 1,
                 "videos": [],
                 "images": [],
                 "status": ""
