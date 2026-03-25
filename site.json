@@ -15,7 +15,7 @@
                 "canonical": true
             },
             "created": 1772482195,
-            "updated": 1774478530,
+            "updated": 1774478538,
             "git": {
                 "vendor": "github",
                 "branch": "gh-pages"
@@ -137,7 +137,7 @@
             "slug": "competency\/new-item-2",
             "order": 2,
             "parent": "item-896b5ef1-0398-4efe-a522-cfced24f947f",
-            "title": "New item",
+            "title": "Domain",
             "description": "",
             "metadata": {
                 "locked": "",
