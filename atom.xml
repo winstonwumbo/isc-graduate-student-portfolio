@@ -3,7 +3,7 @@
   <title>graduate-portfolio-template</title>
   <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/" rel="self" />
   <subtitle>skeleton from-skeleton</subtitle>
-  <updated>2026-03-02T16:36:26-05:00</updated>
+  <updated>2026-03-25T18:40:33-04:00</updated>
   <author>
       <name></name>
   </author>
@@ -11,7 +11,7 @@
   <entry>
     <title>About</title>
     <id>item-home-clean-portfolio-theme</id>
-    <updated>2026-03-25T18:09:46-04:00</updated>
+    <updated>2026-03-25T18:40:33-04:00</updated>
     <published>2026-03-02T15:09:55-05:00</published>
     <summary>Welcome to my portfolio! I'm Winston, a third-year student in Mathematics Education!</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/home"/>
@@ -35,7 +35,7 @@
   <entry>
     <title>Specialization</title>
     <id>item-1c280f2b-d269-453d-9d42-22a2034c7175</id>
-    <updated>2026-03-02T16:57:53-05:00</updated>
+    <updated>2026-03-25T18:40:33-04:00</updated>
     <published>2026-03-02T16:27:37-05:00</published>
     <summary>Area of SpecializationBest Example of Work</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/new-page"/>
@@ -54,7 +54,7 @@
   <entry>
     <title>Philosophy</title>
     <id>item-df2d214b-3dc2-481f-9428-383830d240ed</id>
-    <updated>2026-03-02T16:36:26-05:00</updated>
+    <updated>2026-03-25T18:40:33-04:00</updated>
     <published>2026-03-02T16:35:12-05:00</published>
     <summary></summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/philosophy"/>
@@ -68,7 +68,7 @@
   <entry>
     <title>Publications</title>
     <id>item-2d9d2166-d526-44a9-ae42-bf9fc431d8e7</id>
-    <updated>2026-03-02T16:36:26-05:00</updated>
+    <updated>2026-03-25T18:40:33-04:00</updated>
     <published>2026-03-02T16:35:43-05:00</published>
     <summary></summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/publications"/>
@@ -82,7 +82,7 @@
   <entry>
     <title>Competency</title>
     <id>item-896b5ef1-0398-4efe-a522-cfced24f947f</id>
-    <updated>2026-03-25T18:37:53-04:00</updated>
+    <updated>2026-03-25T18:40:33-04:00</updated>
     <published>2026-03-02T16:36:12-05:00</published>
     <summary>Test PDF</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/competency"/>
@@ -94,6 +94,18 @@
 
 </grid-plate>
  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>New item</title>
+    <id>item-1b403b69-ec41-4b91-b817-c097a1fdf14e</id>
+    <updated>2026-03-25T18:40:33-04:00</updated>
+    <published>2026-03-25T18:40:33-04:00</published>
+    <summary></summary>
+    <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/competency/new-item"/>
+    
+    <content type="html">
+      <![CDATA[ <p></p> ]]>
     </content>
   </entry>
 </feed>

@@ -15,7 +15,7 @@
                 "canonical": true
             },
             "created": 1772482195,
-            "updated": 1772487386,
+            "updated": 1774478433,
             "git": {
                 "vendor": "github",
                 "branch": "gh-pages"
@@ -58,15 +58,32 @@
             "title": "About",
             "description": "Welcome to my portfolio! I'm Winston, a third-year student in Mathematics Education!",
             "metadata": {
-                "published": true,
-                "hideInMenu": false,
+                "published": "1",
+                "hideInMenu": "",
                 "created": "1772482195",
-                "updated": 1774476586,
-                "locked": false,
-                "readtime": 2,
+                "updated": 1774478433,
+                "locked": "",
+                "readtime": "2",
                 "videos": [],
                 "images": [],
                 "status": ""
+            }
+        },
+        {
+            "id": "item-1b403b69-ec41-4b91-b817-c097a1fdf14e",
+            "indent": "1",
+            "location": "pages\/item-1b403b69-ec41-4b91-b817-c097a1fdf14e\/index.html",
+            "slug": "competency\/new-item",
+            "order": 0,
+            "parent": "item-896b5ef1-0398-4efe-a522-cfced24f947f",
+            "title": "New item",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1774478433,
+                "images": [],
+                "videos": [],
+                "updated": 1774478433
             }
         },
         {
@@ -80,13 +97,13 @@
             "description": "Test PDF",
             "metadata": {
                 "created": "1772487372",
-                "updated": 1774478273,
+                "updated": 1774478433,
                 "images": [],
                 "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 1,
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "1",
                 "status": ""
             }
         },
@@ -101,13 +118,13 @@
             "description": "Area of SpecializationBest Example of Work",
             "metadata": {
                 "created": "1772486857",
-                "updated": 1772488673,
+                "updated": 1774478433,
                 "images": [],
                 "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 1,
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "1",
                 "status": ""
             }
         },
@@ -122,7 +139,7 @@
             "description": "",
             "metadata": {
                 "created": "1772487312",
-                "updated": 1772487386,
+                "updated": 1774478433,
                 "images": [],
                 "videos": [],
                 "published": "1",
@@ -143,7 +160,7 @@
             "description": "",
             "metadata": {
                 "created": "1772487343",
-                "updated": 1772487386,
+                "updated": 1774478433,
                 "images": [],
                 "videos": [],
                 "published": "1",
