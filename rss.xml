@@ -6,7 +6,7 @@
     <description>skeleton from-skeleton</description>
     <copyright>Copyright (C) 2026 https://haxcms.ddev.site/sites/graduate-portfolio-template</copyright>
     <language>en-US</language>
-    <lastBuildDate>Wed, 25 Mar 2026 18:42:27 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 18:42:37 -0400</lastBuildDate>
     <generator>HAXcms PHP</generator>
     <atom:link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -45,7 +45,7 @@
       <pubDate>Mon, 02 Mar 2026 16:36:12 -0500</pubDate>
     </item>
     <item>
-      <title>New item</title>
+      <title>Domain 4</title>
       <link>https://haxcms.ddev.site/sites/graduate-portfolio-template/competency/new-item</link>
       <description></description>
       <guid>https://haxcms.ddev.site/sites/graduate-portfolio-template/competency/new-item</guid>
