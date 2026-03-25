@@ -3,7 +3,7 @@
   <title>graduate-portfolio-template</title>
   <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/" rel="self" />
   <subtitle>skeleton from-skeleton</subtitle>
-  <updated>2026-03-25T18:41:40-04:00</updated>
+  <updated>2026-03-25T18:42:01-04:00</updated>
   <author>
       <name></name>
   </author>
@@ -109,7 +109,7 @@
     </content>
   </entry>
   <entry>
-    <title>New item</title>
+    <title>Domain 1</title>
     <id>item-03eb26e3-9873-4cb5-b8a9-5e7d54186fb9</id>
     <updated>2026-03-25T18:41:40-04:00</updated>
     <published>2026-03-25T18:41:08-04:00</published>
