@@ -15,7 +15,7 @@
                 "canonical": true
             },
             "created": 1772482195,
-            "updated": 1774478521,
+            "updated": 1774478530,
             "git": {
                 "vendor": "github",
                 "branch": "gh-pages"
@@ -116,7 +116,7 @@
             "slug": "new-page-1",
             "order": 1,
             "parent": "item-896b5ef1-0398-4efe-a522-cfced24f947f",
-            "title": "New Page",
+            "title": "Domain 2",
             "description": "",
             "metadata": {
                 "created": "1774478486",
