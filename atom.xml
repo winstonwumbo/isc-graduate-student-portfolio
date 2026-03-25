@@ -11,19 +11,24 @@
   <entry>
     <title>About</title>
     <id>item-home-clean-portfolio-theme</id>
-    <updated>2026-03-25T17:54:10-04:00</updated>
+    <updated>2026-03-25T18:09:46-04:00</updated>
     <published>2026-03-02T15:09:55-05:00</published>
     <summary>Welcome to my portfolio! I'm Winston, a third-year student in Mathematics Education!</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/home"/>
     
     <content type="html">
       <![CDATA[ 
-<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs">Wilbur Watts M.Ed. Candidate, Mathematics Education &#183; Penn State University</h2>
-<grid-plate item-margin="16" item-padding="16" layout="1-1" disable-responsive><p slot="col-1">Welcome to my portfolio. I'm Wilbur Watts — a mathematics instructor, tutor, and Penn State master's student dedicated to making rigorous math education accessible to every learner, whether they're in a college classroom or a workforce training program. This space reflects my journey as both a practitioner and a scholar: the curricula I've designed, the pedagogical questions I'm exploring, and my ongoing commitment to meeting students exactly where they are.</p><img src="https://cdn2.thecatapi.com/images/9j5.jpg" loading="lazy" slot="col-2"></grid-plate>
-<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs">Personal Statement</h2>
+<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs" id="h2--286977878">Wilbur Watts M.Ed. Candidate, Mathematics Education &#183; Penn State University</h2>
+<grid-plate item-margin="16" item-padding="16" layout="1-1" disable-responsive><p slot="col-1">Welcome to my portfolio. I'm Wilbur Watts — a Penn State master's student dedicated to making rigorous math education accessible to every learner, whether they're in a college classroom or a workforce training program. This space reflects my journey as both a practitioner and a scholar: the curricula I've designed, the pedagogical questions I'm exploring, and my ongoing commitment to meeting students exactly where they are.</p><img src="https://cdn2.thecatapi.com/images/9j5.jpg" loading="lazy" slot="col-2"></grid-plate>
+<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs" id="h2--1145405553">Personal Statement</h2>
 <p>My path into mathematics education has never followed a single straight line &#8212; and I think that's made me a better teacher. Working across college mathematics and workforce programs has taught me that the students who show up in these spaces carry incredible range: different goals, different histories with math, and different definitions of what success looks like. My job, as I see it, is to design learning experiences that honor that range rather than flatten it.</p>
 <p>Equity in mathematics education isn't an abstract principle to me &#8212; it's a design problem. It shows up in the questions I choose for a lesson, the way I sequence a concept, the assumptions I examine when a student struggles. Too often, mathematics instruction is built around the student who already arrived prepared, leaving everyone else to catch up on their own. In my work with college students and adult learners in workforce programs, I've seen the cost of that design &#8212; and I've committed myself to building something better.</p>
-<p>Pursuing my master's degree in mathematics education at Penn State has given me the theoretical grounding to match my practical instincts. I'm especially interested in how curriculum design can serve as a tool for equity: how intentional sequencing, authentic contexts, and transparent learning goals can shift a student's relationship with mathematics from one of anxiety to one of agency. Good curriculum doesn't just deliver content &#8212; it sends a message about who belongs in the room.</p>
+<p resource="#ee44cb52-6c00-92aa-6ee4-9f081214d4cb">Pursuing my master's degree in mathematics education at Penn State has given me the theoretical grounding to match my practical instincts. I'm especially interested in how curriculum design can serve as a tool for equity: how intentional sequencing, authentic contexts, and transparent learning goals can shift a student's relationship with mathematics from one of anxiety to one of agency. Good curriculum doesn't just deliver content &#8212; it sends a message about who belongs in the room.</p>
+<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs">Social Media</h2>
+<collection-list accent-color="grey"><collection-item line1="Wilbur Watts" icon="hax:hax2022" url="https://www.linkedin.com/company/haxtheweb" line2="Linkedin" image="https://yt3.googleusercontent.com/i6KNxiy3gME-BulL4WnuGkTGqHuSYF8jl1WRn0rXftcJdSYK7dHKcJ3gLAaPc-KfhmLSYPwf824=s900-c-k-c0x00ffffff-no-rj"></collection-item>
+<collection-item line2="Twitter/X" url="https://x.com/HAXTheWeb" icon="hax:hax2022" line1="Wilbur Watts" image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1280px-Logo_of_Twitter.svg.png"></collection-item>
+<collection-item line1="Wilbur Watts" line2="Instagram" url="https://www.instagram.com/pennstate/" icon="hax:hax2022" image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/960px-Instagram_logo_2016.svg.png"></collection-item>
+</collection-list>
  ]]>
     </content>
   </entry>
