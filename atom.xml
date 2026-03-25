@@ -132,4 +132,18 @@
       <![CDATA[ <p></p> ]]>
     </content>
   </entry>
+  <entry>
+    <title>New Page</title>
+    <id>item-a085aae3-18ed-4b26-a2a0-8c7e0fd67974</id>
+    <updated>2026-03-25T18:41:29-04:00</updated>
+    <published>2026-03-25T18:41:26-04:00</published>
+    <summary></summary>
+    <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/new-page-1"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<p></p>
+ ]]>
+    </content>
+  </entry>
 </feed>
