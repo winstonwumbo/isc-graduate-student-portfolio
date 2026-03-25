@@ -82,7 +82,7 @@
   <entry>
     <title>Competency</title>
     <id>item-896b5ef1-0398-4efe-a522-cfced24f947f</id>
-    <updated>2026-03-25T18:31:56-04:00</updated>
+    <updated>2026-03-25T18:36:34-04:00</updated>
     <published>2026-03-02T16:36:12-05:00</published>
     <summary>Test PDF</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/competency"/>
@@ -90,7 +90,8 @@
     <content type="html">
       <![CDATA[ 
 <p>Test PDF</p>
-<iframe-loader source="https://pennstateoffice365-my.sharepoint.com/personal/wjw5326_psu_edu/_layouts/15/embed.aspx?UniqueId=c4300025-af7d-452e-b697-442d9ce1ab4b" height="500" width="100%"><iframe src="https://pennstateoffice365-my.sharepoint.com/personal/wjw5326_psu_edu/_layouts/15/embed.aspx?UniqueId=c4300025-af7d-452e-b697-442d9ce1ab4b" height="500" width="100%" sandbox="allow-scripts allow-same-origin"></iframe></iframe-loader>
+<grid-plate item-margin="16" item-padding="16" layout="1-1" disable-responsive><p slot="col-1">Column one content to replace</p><iframe-loader source="https://pennstateoffice365-my.sharepoint.com/personal/wjw5326_psu_edu/_layouts/15/embed.aspx?UniqueId=c4300025-af7d-452e-b697-442d9ce1ab4b" height="500" width="100%" slot="col-2"><iframe src="https://pennstateoffice365-my.sharepoint.com/personal/wjw5326_psu_edu/_layouts/15/embed.aspx?UniqueId=c4300025-af7d-452e-b697-442d9ce1ab4b" height="500" width="100%" sandbox="allow-scripts allow-same-origin"></iframe></iframe-loader>
+</grid-plate>
  ]]>
     </content>
   </entry>
