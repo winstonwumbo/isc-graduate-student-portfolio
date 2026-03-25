@@ -165,6 +165,22 @@
             }
         },
         {
+            "id": "item-a085aae3-18ed-4b26-a2a0-8c7e0fd67974",
+            "indent": 0,
+            "location": "pages\/item-a085aae3-18ed-4b26-a2a0-8c7e0fd67974\/index.html",
+            "slug": "new-page-1",
+            "order": "2",
+            "parent": null,
+            "title": "New Page",
+            "description": "",
+            "metadata": {
+                "created": 1774478486,
+                "updated": 1774478486,
+                "images": [],
+                "videos": []
+            }
+        },
+        {
             "id": "item-df2d214b-3dc2-481f-9428-383830d240ed",
             "indent": 0,
             "location": "pages\/item-df2d214b-3dc2-481f-9428-383830d240ed\/index.html",
