@@ -82,15 +82,23 @@
   <entry>
     <title>Competency</title>
     <id>item-896b5ef1-0398-4efe-a522-cfced24f947f</id>
-    <updated>2026-03-25T18:41:40-04:00</updated>
+    <updated>2026-03-26T17:09:39-04:00</updated>
     <published>2026-03-02T16:36:12-05:00</published>
     <summary>Test PDF</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/competency"/>
     
     <content type="html">
       <![CDATA[ 
-<p>Test PDF</p>
+<p>My professional expertise spans three interconnected domains: equity-centered mathematics curriculum design, post-secondary and workforce mathematics instruction, and the study of mathematical identity development among non-traditional learners. These areas reflect both the practical knowledge I have built through years of direct instruction and tutoring, and the scholarly grounding I have developed through graduate study at Penn State University.</p>
+<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs">Areas of Expertise</h2>
+<ul><li><b>Equity-Centered Curriculum Design:</b> I design instructional sequences, assessments, and learning materials that center student belonging and access alongside mathematical rigor, with particular focus on developmental and gateway mathematics contexts.</li>
+<li><b>Post-Secondary &amp; Workforce Mathematics Instruction:</b> I teach and tutor college mathematics and adult workforce learners across a range of courses from developmental arithmetic through calculus, with expertise in differentiated instruction and formative assessment.</li>
+<li><b>Mathematical Identity &amp; Engagement:</b> I investigate how students &#8212; particularly adult learners and those in workforce programs &#8212; construct or reconstruct their identities as mathematical thinkers, and how instructional environments mediate that process.</li>
+<li><b>Pedagogical Content Knowledge:</b> I bring deep command of undergraduate mathematics content (algebra, pre-calculus, statistics, calculus) and the research-informed pedagogical strategies most effective for those domains.</li>
+<li><b>Supplemental Instruction &amp; Peer Learning:</b> I design and facilitate peer-assisted learning structures that improve outcomes in high-enrollment gateway courses.</li>
+</ul>
 <grid-plate item-margin="16" item-padding="16" layout="1-1" disable-responsive><p slot="col-1">Column one content to replace</p><iframe-loader source="https://www.cte.iup.edu/cte/Resources/PDF_TestPage.pdf" height="500" width="100%" slot="col-2" is-pdf><iframe src="https://www.cte.iup.edu/cte/Resources/PDF_TestPage.pdf" height="500" width="100%"></iframe></iframe-loader>
+
 
 </grid-plate>
  ]]>

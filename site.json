@@ -99,13 +99,13 @@
             "description": "Test PDF",
             "metadata": {
                 "created": "1772487372",
-                "updated": 1774478500,
+                "updated": 1774559379,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1,
                 "status": ""
             }
         },
