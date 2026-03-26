@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>graduate-portfolio-template</title>
+  <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/" rel="self" />
+  <subtitle>skeleton from-skeleton</subtitle>
+  <updated>2026-03-25T18:42:37-04:00</updated>
+  <author>
+      <name></name>
+  </author>
+  <id>https://haxcms.ddev.site/sites/graduate-portfolio-template/</id>
+  <entry>
+    <title>About</title>
+    <id>item-home-clean-portfolio-theme</id>
+    <updated>2026-03-25T18:41:40-04:00</updated>
+    <published>2026-03-02T15:09:55-05:00</published>
+    <summary>Welcome to my portfolio! I'm Winston, a third-year student in Mathematics Education!</summary>
+    <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/home"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs" id="h2--286977878">Wilbur Watts M.Ed. Candidate, Mathematics Education &#183; Penn State University</h2>
+<grid-plate item-margin="16" item-padding="16" layout="1-1" disable-responsive><p slot="col-1">Welcome to my portfolio. I'm Wilbur Watts — a Penn State master's student dedicated to making rigorous math education accessible to every learner, whether they're in a college classroom or a workforce training program. This space reflects my journey as both a practitioner and a scholar: the curricula I've designed, the pedagogical questions I'm exploring, and my ongoing commitment to meeting students exactly where they are.</p><img src="https://cdn2.thecatapi.com/images/9j5.jpg" loading="lazy" slot="col-2"></grid-plate>
+<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs" id="h2--1145405553">Personal Statement</h2>
+<p>My path into mathematics education has never followed a single straight line &#8212; and I think that's made me a better teacher. Working across college mathematics and workforce programs has taught me that the students who show up in these spaces carry incredible range: different goals, different histories with math, and different definitions of what success looks like. My job, as I see it, is to design learning experiences that honor that range rather than flatten it.</p>
+<p>Equity in mathematics education isn't an abstract principle to me &#8212; it's a design problem. It shows up in the questions I choose for a lesson, the way I sequence a concept, the assumptions I examine when a student struggles. Too often, mathematics instruction is built around the student who already arrived prepared, leaving everyone else to catch up on their own. In my work with college students and adult learners in workforce programs, I've seen the cost of that design &#8212; and I've committed myself to building something better.</p>
+<p resource="#ee44cb52-6c00-92aa-6ee4-9f081214d4cb">Pursuing my master's degree in mathematics education at Penn State has given me the theoretical grounding to match my practical instincts. I'm especially interested in how curriculum design can serve as a tool for equity: how intentional sequencing, authentic contexts, and transparent learning goals can shift a student's relationship with mathematics from one of anxiety to one of agency. Good curriculum doesn't just deliver content &#8212; it sends a message about who belongs in the room.</p>
+<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs">Social Media</h2>
+<collection-list accent-color="grey"><collection-item line1="Wilbur Watts" icon="hax:hax2022" url="https://www.linkedin.com/company/haxtheweb" line2="Linkedin" image="https://yt3.googleusercontent.com/i6KNxiy3gME-BulL4WnuGkTGqHuSYF8jl1WRn0rXftcJdSYK7dHKcJ3gLAaPc-KfhmLSYPwf824=s900-c-k-c0x00ffffff-no-rj"></collection-item>
+<collection-item line2="Twitter/X" url="https://x.com/HAXTheWeb" icon="hax:hax2022" line1="Wilbur Watts" image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1280px-Logo_of_Twitter.svg.png"></collection-item>
+<collection-item line1="Wilbur Watts" line2="Instagram" url="https://www.instagram.com/pennstate/" icon="hax:hax2022" image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/960px-Instagram_logo_2016.svg.png"></collection-item>
+</collection-list>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Specialization</title>
+    <id>item-1c280f2b-d269-453d-9d42-22a2034c7175</id>
+    <updated>2026-03-25T18:41:40-04:00</updated>
+    <published>2026-03-02T16:27:37-05:00</published>
+    <summary>Area of SpecializationBest Example of Work</summary>
+    <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/new-page"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<h2 id="h2--1461500319">Area of Specialization</h2>
+<p>As a Mathematics Education student at Pennsylvania State University, my area of specialization focuses on preparing to teach secondary mathematics (grades 7&#8211;12) through equitable, research-based instructional practices. My coursework and field experiences emphasize deep conceptual understanding in algebra, geometry, calculus, and statistics, alongside the pedagogical content knowledge necessary to make these subjects meaningful and accessible to diverse learners.</p>
+<p>I am particularly interested in fostering mathematical reasoning, problem-solving, and productive struggle in the classroom. Drawing on current research in mathematics education, I design lessons that promote inquiry, discourse, and real-world connections. I strive to create inclusive learning environments where all students see themselves as capable mathematicians and develop confidence in their quantitative and analytical skills.</p>
+<p>Through clinical experiences in local school districts and collaboration with faculty in the College of Education, I continue to refine my instructional strategies, assessment design, and classroom management practices. My goal is to empower students not only to master mathematical content, but to think critically, communicate clearly, and apply mathematics beyond the classroom.</p>
+<h2 id="h2--183548696">Best Example of Work</h2>
+<p>Deep thoughts..</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Philosophy</title>
+    <id>item-df2d214b-3dc2-481f-9428-383830d240ed</id>
+    <updated>2026-03-25T18:41:40-04:00</updated>
+    <published>2026-03-02T16:35:12-05:00</published>
+    <summary></summary>
+    <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/philosophy"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<p></p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Publications</title>
+    <id>item-2d9d2166-d526-44a9-ae42-bf9fc431d8e7</id>
+    <updated>2026-03-25T18:41:40-04:00</updated>
+    <published>2026-03-02T16:35:43-05:00</published>
+    <summary></summary>
+    <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/publications"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<p></p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Competency</title>
+    <id>item-896b5ef1-0398-4efe-a522-cfced24f947f</id>
+    <updated>2026-03-25T18:41:40-04:00</updated>
+    <published>2026-03-02T16:36:12-05:00</published>
+    <summary>Test PDF</summary>
+    <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/competency"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<p>Test PDF</p>
+<grid-plate item-margin="16" item-padding="16" layout="1-1" disable-responsive><p slot="col-1">Column one content to replace</p><iframe-loader source="https://www.cte.iup.edu/cte/Resources/PDF_TestPage.pdf" height="500" width="100%" slot="col-2" is-pdf><iframe src="https://www.cte.iup.edu/cte/Resources/PDF_TestPage.pdf" height="500" width="100%"></iframe></iframe-loader>
+
+</grid-plate>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Domain 4</title>
+    <id>item-1b403b69-ec41-4b91-b817-c097a1fdf14e</id>
+    <updated>2026-03-25T18:41:40-04:00</updated>
+    <published>2026-03-25T18:40:33-04:00</published>
+    <summary></summary>
+    <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/competency/new-item"/>
+    
+    <content type="html">
+      <![CDATA[ <p></p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Domain 1</title>
+    <id>item-03eb26e3-9873-4cb5-b8a9-5e7d54186fb9</id>
+    <updated>2026-03-25T18:41:40-04:00</updated>
+    <published>2026-03-25T18:41:08-04:00</published>
+    <summary></summary>
+    <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/competency/new-item-1"/>
+    
+    <content type="html">
+      <![CDATA[ <p></p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Domain 3</title>
+    <id>item-8b57fb83-2613-4550-b8d1-a08371474010</id>
+    <updated>2026-03-25T18:41:40-04:00</updated>
+    <published>2026-03-25T18:41:08-04:00</published>
+    <summary></summary>
+    <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/competency/new-item-2"/>
+    
+    <content type="html">
+      <![CDATA[ <p></p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Domain 2</title>
+    <id>item-a085aae3-18ed-4b26-a2a0-8c7e0fd67974</id>
+    <updated>2026-03-25T18:41:40-04:00</updated>
+    <published>2026-03-25T18:41:26-04:00</published>
+    <summary></summary>
+    <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/new-page-1"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<p></p>
+ ]]>
+    </content>
+  </entry>
+</feed>

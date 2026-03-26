@@ -1,0 +1,236 @@
+{
+    "id": "eb043d86-4545-4bd0-8e04-cf3ec7aff293",
+    "title": "graduate-portfolio-template",
+    "author": "",
+    "description": "skeleton from-skeleton",
+    "license": "by-sa",
+    "metadata": {
+        "author": {},
+        "site": {
+            "name": "graduate-portfolio-template",
+            "logo": "assets\/banner.jpg",
+            "settings": {
+                "lang": "en-US",
+                "publishPagesOn": true,
+                "canonical": true
+            },
+            "created": 1772482195,
+            "updated": 1774478557,
+            "git": {
+                "vendor": "github",
+                "branch": "gh-pages"
+            }
+        },
+        "theme": {
+            "element": "clean-portfolio-theme",
+            "path": "@haxtheweb\/clean-portfolio-theme\/clean-portfolio-theme.js",
+            "name": "Clean Portfolio Theme",
+            "thumbnail": "@haxtheweb\/haxcms-elements\/lib\/theme-screenshots\/theme-clean-portfolio-theme-thumb.jpg",
+            "description": "Start with a blank site using the Clean Portfolio Theme",
+            "category": [
+                "Website"
+            ],
+            "hidden": false,
+            "terrible": false,
+            "variables": {
+                "icon": "av:explicit",
+                "hexCode": "#aeff00",
+                "cssVariable": "--simple-colors-default-theme-light-blue-7"
+            }
+        },
+        "node": {
+            "fields": {}
+        },
+        "build": {
+            "version": "25.0.0",
+            "structure": "from-skeleton",
+            "type": "skeleton"
+        }
+    },
+    "items": [
+        {
+            "id": "item-03eb26e3-9873-4cb5-b8a9-5e7d54186fb9",
+            "indent": "1",
+            "location": "pages\/item-03eb26e3-9873-4cb5-b8a9-5e7d54186fb9\/index.html",
+            "slug": "competency\/new-item-1",
+            "order": 0,
+            "parent": "item-896b5ef1-0398-4efe-a522-cfced24f947f",
+            "title": "Domain 1",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": "1774478468",
+                "images": [],
+                "videos": [],
+                "updated": 1774478500,
+                "published": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-home-clean-portfolio-theme",
+            "indent": 0,
+            "location": "pages\/item-home-clean-portfolio-theme\/index.html",
+            "slug": "home",
+            "order": 0,
+            "parent": null,
+            "title": "About",
+            "description": "Welcome to my portfolio! I'm Winston, a third-year student in Mathematics Education!",
+            "metadata": {
+                "published": "1",
+                "hideInMenu": "",
+                "created": "1772482195",
+                "updated": 1774478500,
+                "locked": "",
+                "readtime": "2",
+                "videos": [],
+                "images": [],
+                "status": ""
+            }
+        },
+        {
+            "id": "item-896b5ef1-0398-4efe-a522-cfced24f947f",
+            "indent": 0,
+            "location": "pages\/item-896b5ef1-0398-4efe-a522-cfced24f947f\/index.html",
+            "slug": "competency",
+            "order": 1,
+            "parent": null,
+            "title": "Competency",
+            "description": "Test PDF",
+            "metadata": {
+                "created": "1772487372",
+                "updated": 1774478500,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-a085aae3-18ed-4b26-a2a0-8c7e0fd67974",
+            "indent": "1",
+            "location": "pages\/item-a085aae3-18ed-4b26-a2a0-8c7e0fd67974\/index.html",
+            "slug": "new-page-1",
+            "order": 1,
+            "parent": "item-896b5ef1-0398-4efe-a522-cfced24f947f",
+            "title": "Domain 2",
+            "description": "",
+            "metadata": {
+                "created": "1774478486",
+                "updated": 1774478500,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-8b57fb83-2613-4550-b8d1-a08371474010",
+            "indent": "1",
+            "location": "pages\/item-8b57fb83-2613-4550-b8d1-a08371474010\/index.html",
+            "slug": "competency\/new-item-2",
+            "order": 2,
+            "parent": "item-896b5ef1-0398-4efe-a522-cfced24f947f",
+            "title": "Domain 3",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": "1774478468",
+                "images": [],
+                "videos": [],
+                "updated": 1774478500,
+                "published": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-1c280f2b-d269-453d-9d42-22a2034c7175",
+            "indent": 0,
+            "location": "pages\/item-1c280f2b-d269-453d-9d42-22a2034c7175\/index.html",
+            "slug": "new-page",
+            "order": 2,
+            "parent": null,
+            "title": "Specialization",
+            "description": "Area of SpecializationBest Example of Work",
+            "metadata": {
+                "created": "1772486857",
+                "updated": 1774478500,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-1b403b69-ec41-4b91-b817-c097a1fdf14e",
+            "indent": "1",
+            "location": "pages\/item-1b403b69-ec41-4b91-b817-c097a1fdf14e\/index.html",
+            "slug": "competency\/new-item",
+            "order": 3,
+            "parent": "item-896b5ef1-0398-4efe-a522-cfced24f947f",
+            "title": "Domain 4",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": "1774478433",
+                "images": [],
+                "videos": [],
+                "updated": 1774478500,
+                "published": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-df2d214b-3dc2-481f-9428-383830d240ed",
+            "indent": 0,
+            "location": "pages\/item-df2d214b-3dc2-481f-9428-383830d240ed\/index.html",
+            "slug": "philosophy",
+            "order": 3,
+            "parent": null,
+            "title": "Philosophy",
+            "description": "",
+            "metadata": {
+                "created": "1772487312",
+                "updated": 1774478500,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-2d9d2166-d526-44a9-ae42-bf9fc431d8e7",
+            "indent": 0,
+            "location": "pages\/item-2d9d2166-d526-44a9-ae42-bf9fc431d8e7\/index.html",
+            "slug": "publications",
+            "order": 4,
+            "parent": null,
+            "title": "Publications",
+            "description": "",
+            "metadata": {
+                "created": "1772487343",
+                "updated": 1774478500,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "1",
+                "status": ""
+            }
+        }
+    ],
+    "location": null
+}
