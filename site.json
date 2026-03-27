@@ -160,13 +160,17 @@
             "description": "Area of SpecializationBest Example of Work",
             "metadata": {
                 "created": "1772486857",
-                "updated": 1774478500,
-                "images": [],
+                "updated": 1774627929,
+                "images": [
+                    "https:\/\/cdn2.thecatapi.com\/images\/9j5.jpg",
+                    "https:\/\/cdn2.thecatapi.com\/images\/9j5.jpg",
+                    "https:\/\/cdn2.thecatapi.com\/images\/9j5.jpg"
+                ],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 3,
                 "status": ""
             }
         },
