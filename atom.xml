@@ -82,7 +82,7 @@
   <entry>
     <title>Competency</title>
     <id>item-896b5ef1-0398-4efe-a522-cfced24f947f</id>
-    <updated>2026-03-27T10:28:02-04:00</updated>
+    <updated>2026-03-27T10:30:24-04:00</updated>
     <published>2026-03-02T16:36:12-05:00</published>
     <summary>Test PDF</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/competency"/>
@@ -90,7 +90,8 @@
     <content type="html">
       <![CDATA[ 
 <p>My professional expertise spans three interconnected domains: equity-centered mathematics curriculum design, post-secondary and workforce mathematics instruction, and the study of mathematical identity development among non-traditional learners. These areas reflect both the practical knowledge I have built through years of direct instruction and tutoring, and the scholarly grounding I have developed through graduate study at Penn State University.</p>
-<grid-plate item-margin="16" item-padding="16" layout="1-1" disable-responsive style="--grid-plate-item-padding: 1px;"><h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs" slot="col-2">Curriculum Vitae</h2><iframe-loader source="https://www.cte.iup.edu/cte/Resources/PDF_TestPage.pdf" height="1000" width="100%" slot="col-2" is-pdf><iframe src="https://www.cte.iup.edu/cte/Resources/PDF_TestPage.pdf" height="1000" width="100%"></iframe></iframe-loader>
+<grid-plate item-margin="16" item-padding="16" layout="1-1" disable-responsive><h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs" slot="col-2">Curriculum Vitae</h2><iframe-loader source="https://www.cte.iup.edu/cte/Resources/PDF_TestPage.pdf" height="1000" width="100%" slot="col-2" is-pdf><iframe src="https://www.cte.iup.edu/cte/Resources/PDF_TestPage.pdf" height="1000" width="100%"></iframe></iframe-loader>
+
 
 
 
@@ -116,7 +117,9 @@
 
 
 
+
 <li><b>Post-Secondary &amp; Workforce Mathematics Instruction:</b> I teach and tutor college mathematics and adult workforce learners across a range of courses from developmental arithmetic through calculus, with expertise in differentiated instruction and formative assessment.</li>
+
 
 
 
@@ -138,7 +141,9 @@
 
 
 
+
 <li><b>Pedagogical Content Knowledge:</b> I bring deep command of undergraduate mathematics content (algebra, pre-calculus, statistics, calculus) and the research-informed pedagogical strategies most effective for those domains.</li>
+
 
 
 
@@ -160,7 +165,9 @@
 
 
 
+
 </ul>
+
 
 
 
@@ -172,8 +179,11 @@
 </grid-plate>
 <h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs" id="h2--757773578">Prior Experiences and Accomplishments</h2>
 <lrndesign-timeline accent-color="grey" timeline-size="sm" responsive-width="840" timeline-title="Prior Training and Accomplishments" events="[{&quot;heading&quot;:&quot;2025 — AERA Annual Meeting&quot;,&quot;details&quot;:&quot;Presenting at the American Educational Research Association's annual meeting placed my work in dialogue with the broadest and most diverse audience I had yet encountered as a scholar. Co-authored with my faculty mentor, the poster examined equity infrastructure in workforce mathematics curriculum design, and the feedback I received from researchers working in adjacent areas opened new directions I am still following.&quot;,&quot;imagealt&quot;:&quot;Propfile illustration of, James Pollock, Governor of Pennsylvania 1855-1858.&quot;,&quot;imagesrc&quot;:&quot;https://upload.wikimedia.org/wikipedia/commons/5/56/James_Pollock_Pennsylvania_Governor.jpg&quot;},{&quot;heading&quot;:&quot;2024 — Manuscript Submitted&quot;,&quot;details&quot;:&quot;I submitted my first sole-authored manuscript for peer review, examining how adult mathematics learners reconstruct their mathematical identities through narrative. The submission marked a significant milestone — moving from writing about research in coursework to contributing to the scholarly conversation. The waiting, revising, and uncertainty that followed have been their own kind of professional education.&quot;,&quot;imagealt&quot;:&quot;Black and white photo original Old Main in an empty field.&quot;,&quot;imagesrc&quot;:&quot;https://libraries.psu.edu/sites/default/files/migrated/1287768717666.jpg&quot;},{&quot;heading&quot;:&quot;2024 — PSU Research Grant&quot;,&quot;details&quot;:&quot;I was awarded the Penn State Graduate Research Development Grant ($2,500). This competitive internal grant will support the pilot phase of my thesis research: a curriculum redesign study in a workforce mathematics context grounded in equity-centered design principles. The grant funded participant recruitment, material development, and data collection, and represented my first experience navigating the full lifecycle of a funded research project from proposal to implementation.&quot;,&quot;imagesrc&quot;:&quot;&quot;},{&quot;heading&quot;:&quot;2023 — PCTM Annual Conference&quot;,&quot;details&quot;:&quot;Presenting at the Pennsylvania Council of Teachers of Mathematics conference was my first experience bringing my work to a professional audience of practitioners. The conversation that followed my presentation — with classroom teachers, instructional coaches, and curriculum coordinators — reinforced my commitment to research that speaks across the theory-practice divide, and sharpened my thinking about how to communicate scholarly ideas without losing their substance.&quot;,&quot;imagesrc&quot;:&quot;&quot;},{&quot;imagesrc&quot;:&quot;&quot;,&quot;heading&quot;:&quot;2023 — Research Fellowship&quot;,&quot;details&quot;:&quot;Receiving this fellowship provided dedicated support for my emerging research agenda and signaled departmental recognition of the scholarly direction I was pursuing. It gave me protected time to develop my thesis framework and to engage more deeply with the literature on mathematical identity and equity-centered curriculum design.&quot;},{&quot;imagesrc&quot;:&quot;&quot;,&quot;heading&quot;:&quot;2019 — Informal Peer Tutoring&quot;,&quot;details&quot;:&quot;Before I had any formal role as an educator, I began helping classmates who were struggling in developmental math courses. These informal sessions — often at a whiteboard in the library or over coffee between classes — were where I first discovered that I had a genuine instinct for explanation, and that I cared deeply about whether the person across from me actually understood, not just whether they could get to the right answer.&quot;}]"></lrndesign-timeline>
-<grid-plate item-margin="16" layout="1-1" disable-responsive item-padding="16" style="--grid-plate-item-padding: 1px;"><h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs" slot="col-1">Certifications</h2><ul slot="col-1"><li>Column one content to replace</li></ul>
+<grid-plate item-margin="16" layout="1-1" disable-responsive item-padding="16"><h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs" slot="col-1">Certifications</h2><ul slot="col-1"><li><a href="hax.psu.edu" target="_blank">CITI Program Certificate in Human Subjects Research</a></li>
+<li>Pennsylvania Instructional I Teaching Certificate</li><li>Google Workspace for Education Certified Educator, Level 1</li><li>Supplemental Instruction Supervisor Certification</li><li>CRLA College Reading and Learning Association Tutor Certification, Level II</li></ul>
+
 <h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs" slot="col-2">Academic Skills</h2><ul slot="col-2"><li>Column two content to replace</li></ul>
+
 
 </grid-plate>
 <h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs" id="h2--1236395479">Future Professional Aspirations</h2>
