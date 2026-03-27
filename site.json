@@ -204,9 +204,11 @@
             "description": "Teaching PhilosophyTeaching Demonstrations",
             "metadata": {
                 "created": "1772487312",
-                "updated": 1774628292,
+                "updated": 1774629158,
                 "images": [],
-                "videos": [],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=LrS7dqokTLE"
+                ],
                 "published": true,
                 "hideInMenu": false,
                 "locked": false,
