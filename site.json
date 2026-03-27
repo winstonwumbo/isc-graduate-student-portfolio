@@ -50,21 +50,23 @@
     "items": [
         {
             "id": "item-03eb26e3-9873-4cb5-b8a9-5e7d54186fb9",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-03eb26e3-9873-4cb5-b8a9-5e7d54186fb9\/index.html",
             "slug": "competency\/new-item-1",
             "order": 0,
             "parent": "item-896b5ef1-0398-4efe-a522-cfced24f947f",
             "title": "Domain 1",
-            "description": "",
+            "description": "Equity-Centered Curriculum DesignMy work in mathematics education is anchored in the belief that curriculum is not neutral\u2014it communicates who belongs, who is expected to succeed, and whose ways o",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1774478468",
                 "images": [],
                 "videos": [],
-                "updated": 1774478500,
-                "published": "1",
-                "status": ""
+                "updated": 1774636789,
+                "published": true,
+                "status": "",
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {

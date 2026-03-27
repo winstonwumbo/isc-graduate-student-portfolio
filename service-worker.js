@@ -40,7 +40,7 @@
 var precacheConfig = [
     [
         "pages\/item-03eb26e3-9873-4cb5-b8a9-5e7d54186fb9\/index.html",
-        "MPuQMoObFAfjboUewsPQ"
+        "iejhlBIX8FTbMgfMO1g"
     ],
     [
         "pages\/item-home-clean-portfolio-theme\/index.html",
@@ -112,7 +112,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "qalOiU00sh26dnkCErQDjw"
+        "9YAxGDJFydtWsMGE2Ci3Nw"
     ],
     [
         "404.html",
