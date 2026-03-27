@@ -385,14 +385,17 @@
   <entry>
     <title>Domain 2</title>
     <id>item-a085aae3-18ed-4b26-a2a0-8c7e0fd67974</id>
-    <updated>2026-03-25T18:41:40-04:00</updated>
+    <updated>2026-03-27T14:40:47-04:00</updated>
     <published>2026-03-25T18:41:26-04:00</published>
-    <summary></summary>
+    <summary>Instructional Practice & Student EngagementMy instructional practice is shaped by extensive experience teaching and supporting students across college mathematics courses and workforce education pro</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/new-page-1"/>
     
     <content type="html">
       <![CDATA[ 
-<p></p>
+<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs">Instructional Practice &#38; Student Engagement</h2>
+<p>My instructional practice is shaped by extensive experience teaching and supporting students across college mathematics courses and workforce education programs. In these environments, I have worked with learners whose mathematical backgrounds vary widely, requiring flexible and responsive teaching strategies. My goal as an instructor is to create a classroom environment where students are active participants in meaning-making rather than passive recipients of procedures.</p>
+<p>Central to my teaching is the use of collaborative learning structures. Drawing on sociocultural learning theory, I design opportunities for students to engage in discussion, explain their reasoning, and build on one another&#8217;s ideas. Whether in Supplemental Instruction sessions or formal classroom settings, I use structured group work and guided questioning to support collective problem-solving. These strategies not only improve conceptual understanding but also help students develop confidence in their mathematical voice.</p>
+<p>Formative assessment is a key component of my instructional approach. I regularly use low-stakes checks for understanding&#8212;such as exit tickets, quick polls, and think-pair-share activities&#8212;to gauge student learning and adjust instruction accordingly. This responsiveness allows me to address misconceptions in real time and ensure that lessons remain aligned with student needs.</p>
  ]]>
     </content>
   </entry>
