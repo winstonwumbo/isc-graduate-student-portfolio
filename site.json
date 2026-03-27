@@ -134,21 +134,23 @@
         },
         {
             "id": "item-8b57fb83-2613-4550-b8d1-a08371474010",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-8b57fb83-2613-4550-b8d1-a08371474010\/index.html",
             "slug": "competency\/new-item-2",
             "order": 2,
             "parent": "item-896b5ef1-0398-4efe-a522-cfced24f947f",
             "title": "Domain 3",
-            "description": "",
+            "description": "Mathematical Identity & Student SupportA central focus of my work is understanding and supporting the development of students\u2019 mathematical identities\u2014particularly among adult learners and those",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1774478468",
                 "images": [],
                 "videos": [],
-                "updated": 1774478500,
-                "published": "1",
-                "status": ""
+                "updated": 1774636902,
+                "published": true,
+                "status": "",
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {

@@ -373,13 +373,18 @@
   <entry>
     <title>Domain 3</title>
     <id>item-8b57fb83-2613-4550-b8d1-a08371474010</id>
-    <updated>2026-03-25T18:41:40-04:00</updated>
+    <updated>2026-03-27T14:41:42-04:00</updated>
     <published>2026-03-25T18:41:08-04:00</published>
-    <summary></summary>
+    <summary>Mathematical Identity & Student SupportA central focus of my work is understanding and supporting the development of students’ mathematical identities—particularly among adult learners and those</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/competency/new-item-2"/>
     
     <content type="html">
-      <![CDATA[ <p></p> ]]>
+      <![CDATA[ 
+<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs">Mathematical Identity &#38; Student Support</h2>
+<p>A central focus of my work is understanding and supporting the development of students&#8217; mathematical identities&#8212;particularly among adult learners and those who have historically experienced difficulty in mathematics. Through my roles as a tutor, instructor, and researcher, I have seen how students&#8217; beliefs about their own abilities shape their engagement, persistence, and success.</p>
+<p>Many of the students I work with enter the classroom with a history of negative experiences in mathematics. As a result, they may view themselves as incapable or disengage from challenging tasks. My approach to student support is grounded in the belief that these identities are not fixed, but can be reshaped through intentional instructional practices and supportive learning environments.</p>
+<p>In my teaching, I work to create conditions that foster positive identity development. This includes validating student thinking, even when it is incomplete, and positioning errors as opportunities for learning rather than indicators of failure. I also make space for students to reflect on their own learning processes, helping them recognize growth over time.</p>
+ ]]>
     </content>
   </entry>
   <entry>
