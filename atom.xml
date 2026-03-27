@@ -344,50 +344,68 @@
   <entry>
     <title>Domain 4</title>
     <id>item-1b403b69-ec41-4b91-b817-c097a1fdf14e</id>
-    <updated>2026-03-25T18:41:40-04:00</updated>
+    <updated>2026-03-27T14:45:46-04:00</updated>
     <published>2026-03-25T18:40:33-04:00</published>
-    <summary></summary>
+    <summary>Scholarly Inquiry & Reflective PracticeMy development as an educator is deeply connected to my engagement with scholarly inquiry and reflective practice. As a graduate student in mathematics educati</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/competency/new-item"/>
     
     <content type="html">
-      <![CDATA[ <p></p> ]]>
+      <![CDATA[ 
+<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs" id="h2--1097070208">Scholarly Inquiry &#38; Reflective Practice</h2>
+<p>My development as an educator is deeply connected to my engagement with scholarly inquiry and reflective practice. As a graduate student in mathematics education, I have been trained in qualitative research methods and have applied these methods to investigate questions related to curriculum design and student identity. This scholarly work informs my teaching and allows me to approach instructional challenges with a research-oriented mindset.</p>
+<p>My primary methodological approaches include narrative inquiry and discourse analysis, which I use to examine how students experience mathematics and how classroom interactions shape learning. Through these methods, I have conducted research on adult learners&#8217; mathematical identity development, contributing to a growing body of literature that centers non-traditional student populations.</p>
+<p>In addition to conducting research, I engage in systematic reflection on my own teaching. This includes reviewing recorded lessons, analyzing student work, and documenting instructional decisions. Reflection allows me to identify strengths in my practice as well as areas for growth, such as improving questioning techniques or strengthening connections between lesson components.</p>
+ ]]>
     </content>
   </entry>
   <entry>
     <title>Domain 1</title>
     <id>item-03eb26e3-9873-4cb5-b8a9-5e7d54186fb9</id>
-    <updated>2026-03-25T18:41:40-04:00</updated>
+    <updated>2026-03-27T14:39:49-04:00</updated>
     <published>2026-03-25T18:41:08-04:00</published>
-    <summary></summary>
+    <summary>Equity-Centered Curriculum DesignMy work in mathematics education is anchored in the belief that curriculum is not neutral—it communicates who belongs, who is expected to succeed, and whose ways o</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/competency/new-item-1"/>
     
     <content type="html">
-      <![CDATA[ <p></p> ]]>
+      <![CDATA[ 
+<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs">Equity-Centered Curriculum Design</h2>
+<p>My work in mathematics education is anchored in the belief that curriculum is not neutral&#8212;it communicates who belongs, who is expected to succeed, and whose ways of thinking are valued. As both an instructor and curriculum designer in college and workforce settings, I have focused on developing instructional materials that center access alongside rigor. My experience designing curricula for adult learners, many of whom return to mathematics after years of disengagement, has reinforced the importance of intentional sequencing, transparent expectations, and meaningful context.</p>
+<p>In practice, my curriculum design process begins with backward planning: identifying the core mathematical ideas students should understand and the ways they should be able to demonstrate that understanding. From there, I design tasks that build conceptual understanding through multiple representations and scaffolded progression. I prioritize problems that are grounded in authentic contexts&#8212;particularly those relevant to workforce pathways&#8212;so that students can immediately see the utility and relevance of mathematical reasoning.</p>
+<p>Equity, in this context, is operationalized through design decisions. I incorporate principles from Universal Design for Learning by offering multiple entry points into tasks, allowing students to engage through visual, symbolic, and verbal reasoning. I also attend to the language of mathematics instruction, making expectations explicit and reducing reliance on implicit academic norms that may disadvantage first-generation or non-traditional learners.</p>
+ ]]>
     </content>
   </entry>
   <entry>
     <title>Domain 3</title>
     <id>item-8b57fb83-2613-4550-b8d1-a08371474010</id>
-    <updated>2026-03-25T18:41:40-04:00</updated>
+    <updated>2026-03-27T14:41:42-04:00</updated>
     <published>2026-03-25T18:41:08-04:00</published>
-    <summary></summary>
+    <summary>Mathematical Identity & Student SupportA central focus of my work is understanding and supporting the development of students’ mathematical identities—particularly among adult learners and those</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/competency/new-item-2"/>
     
     <content type="html">
-      <![CDATA[ <p></p> ]]>
+      <![CDATA[ 
+<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs">Mathematical Identity &#38; Student Support</h2>
+<p>A central focus of my work is understanding and supporting the development of students&#8217; mathematical identities&#8212;particularly among adult learners and those who have historically experienced difficulty in mathematics. Through my roles as a tutor, instructor, and researcher, I have seen how students&#8217; beliefs about their own abilities shape their engagement, persistence, and success.</p>
+<p>Many of the students I work with enter the classroom with a history of negative experiences in mathematics. As a result, they may view themselves as incapable or disengage from challenging tasks. My approach to student support is grounded in the belief that these identities are not fixed, but can be reshaped through intentional instructional practices and supportive learning environments.</p>
+<p>In my teaching, I work to create conditions that foster positive identity development. This includes validating student thinking, even when it is incomplete, and positioning errors as opportunities for learning rather than indicators of failure. I also make space for students to reflect on their own learning processes, helping them recognize growth over time.</p>
+ ]]>
     </content>
   </entry>
   <entry>
     <title>Domain 2</title>
     <id>item-a085aae3-18ed-4b26-a2a0-8c7e0fd67974</id>
-    <updated>2026-03-25T18:41:40-04:00</updated>
+    <updated>2026-03-27T14:40:47-04:00</updated>
     <published>2026-03-25T18:41:26-04:00</published>
-    <summary></summary>
+    <summary>Instructional Practice & Student EngagementMy instructional practice is shaped by extensive experience teaching and supporting students across college mathematics courses and workforce education pro</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/new-page-1"/>
     
     <content type="html">
       <![CDATA[ 
-<p></p>
+<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs">Instructional Practice &#38; Student Engagement</h2>
+<p>My instructional practice is shaped by extensive experience teaching and supporting students across college mathematics courses and workforce education programs. In these environments, I have worked with learners whose mathematical backgrounds vary widely, requiring flexible and responsive teaching strategies. My goal as an instructor is to create a classroom environment where students are active participants in meaning-making rather than passive recipients of procedures.</p>
+<p>Central to my teaching is the use of collaborative learning structures. Drawing on sociocultural learning theory, I design opportunities for students to engage in discussion, explain their reasoning, and build on one another&#8217;s ideas. Whether in Supplemental Instruction sessions or formal classroom settings, I use structured group work and guided questioning to support collective problem-solving. These strategies not only improve conceptual understanding but also help students develop confidence in their mathematical voice.</p>
+<p>Formative assessment is a key component of my instructional approach. I regularly use low-stakes checks for understanding&#8212;such as exit tickets, quick polls, and think-pair-share activities&#8212;to gauge student learning and adjust instruction accordingly. This responsiveness allows me to address misconceptions in real time and ensure that lessons remain aligned with student needs.</p>
  ]]>
     </content>
   </entry>

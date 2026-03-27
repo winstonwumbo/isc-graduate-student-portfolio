@@ -99,13 +99,13 @@
             "description": "Test PDF",
             "metadata": {
                 "created": "1772487372",
-                "updated": 1774559379,
+                "updated": 1774623354,
                 "images": [],
                 "videos": [],
                 "published": true,
                 "hideInMenu": false,
                 "locked": false,
-                "readtime": 1,
+                "readtime": 3,
                 "status": ""
             }
         },
@@ -160,13 +160,17 @@
             "description": "Area of SpecializationBest Example of Work",
             "metadata": {
                 "created": "1772486857",
-                "updated": 1774478500,
-                "images": [],
+                "updated": 1774627929,
+                "images": [
+                    "https:\/\/cdn2.thecatapi.com\/images\/9j5.jpg",
+                    "https:\/\/cdn2.thecatapi.com\/images\/9j5.jpg",
+                    "https:\/\/cdn2.thecatapi.com\/images\/9j5.jpg"
+                ],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 3,
                 "status": ""
             }
         },
@@ -197,16 +201,18 @@
             "order": 3,
             "parent": null,
             "title": "Philosophy",
-            "description": "",
+            "description": "Teaching PhilosophyTeaching Demonstrations",
             "metadata": {
                 "created": "1772487312",
-                "updated": 1774478500,
+                "updated": 1774629158,
                 "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=LrS7dqokTLE"
+                ],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1,
                 "status": ""
             }
         },
@@ -218,16 +224,16 @@
             "order": 4,
             "parent": null,
             "title": "Publications",
-            "description": "",
+            "description": "Ladson-Billings, G. (2021). Culturally relevant pedagogy 2.0: a.k.a. the remix. Harvard Educational Review, 91(1), 1\u201325. https:\/\/doi.org\/10.17763\/1943-5045-91.1.1Boaler, J. (2017). Mathematical mi",
             "metadata": {
                 "created": "1772487343",
-                "updated": 1774478500,
+                "updated": 1774629634,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1,
                 "status": ""
             }
         }
