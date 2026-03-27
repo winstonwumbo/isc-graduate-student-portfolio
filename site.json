@@ -201,16 +201,16 @@
             "order": 3,
             "parent": null,
             "title": "Philosophy",
-            "description": "",
+            "description": "Teaching PhilosophyTeaching Demonstrations",
             "metadata": {
                 "created": "1772487312",
-                "updated": 1774478500,
+                "updated": 1774628292,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1,
                 "status": ""
             }
         },
