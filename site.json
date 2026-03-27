@@ -180,21 +180,23 @@
         },
         {
             "id": "item-1b403b69-ec41-4b91-b817-c097a1fdf14e",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-1b403b69-ec41-4b91-b817-c097a1fdf14e\/index.html",
             "slug": "competency\/new-item",
             "order": 3,
             "parent": "item-896b5ef1-0398-4efe-a522-cfced24f947f",
             "title": "Domain 4",
-            "description": "",
+            "description": "Scholarly Inquiry & Reflective PracticeMy development as an educator is deeply connected to my engagement with scholarly inquiry and reflective practice. As a graduate student in mathematics educati",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1774478433",
                 "images": [],
                 "videos": [],
-                "updated": 1774478500,
-                "published": "1",
-                "status": ""
+                "updated": 1774636975,
+                "published": true,
+                "status": "",
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {

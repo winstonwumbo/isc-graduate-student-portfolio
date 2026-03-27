@@ -344,13 +344,18 @@
   <entry>
     <title>Domain 4</title>
     <id>item-1b403b69-ec41-4b91-b817-c097a1fdf14e</id>
-    <updated>2026-03-25T18:41:40-04:00</updated>
+    <updated>2026-03-27T14:42:55-04:00</updated>
     <published>2026-03-25T18:40:33-04:00</published>
-    <summary></summary>
+    <summary>Scholarly Inquiry & Reflective PracticeMy development as an educator is deeply connected to my engagement with scholarly inquiry and reflective practice. As a graduate student in mathematics educati</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/competency/new-item"/>
     
     <content type="html">
-      <![CDATA[ <p></p> ]]>
+      <![CDATA[ 
+<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs">Scholarly Inquiry &#38; Reflective Practice</h2>
+<p>My development as an educator is deeply connected to my engagement with scholarly inquiry and reflective practice. As a graduate student in mathematics education, I have been trained in qualitative research methods and have applied these methods to investigate questions related to curriculum design and student identity. This scholarly work informs my teaching and allows me to approach instructional challenges with a research-oriented mindset.</p>
+<p>My primary methodological approaches include narrative inquiry and discourse analysis, which I use to examine how students experience mathematics and how classroom interactions shape learning. Through these methods, I have conducted research on adult learners&#8217; mathematical identity development, contributing to a growing body of literature that centers non-traditional student populations.</p>
+<p>In addition to conducting research, I engage in systematic reflection on my own teaching. This includes reviewing recorded lessons, analyzing student work, and documenting instructional decisions. Reflection allows me to identify strengths in my practice as well as areas for growth, such as improving questioning techniques or strengthening connections between lesson components.</p>
+ ]]>
     </content>
   </entry>
   <entry>
