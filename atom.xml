@@ -82,7 +82,7 @@
   <entry>
     <title>Competency</title>
     <id>item-896b5ef1-0398-4efe-a522-cfced24f947f</id>
-    <updated>2026-03-27T05:05:17-04:00</updated>
+    <updated>2026-03-27T05:06:55-04:00</updated>
     <published>2026-03-02T16:36:12-05:00</published>
     <summary>Test PDF</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/competency"/>
@@ -98,8 +98,10 @@
 
 
 
+
 <p></p>
 <h2 data-original-level="H2" data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs" id="h2--666589342" slot="col-1">Areas of Expertise</h2><ul slot="col-1"><li><b>Equity-Centered Curriculum Design:</b> I design instructional sequences, assessments, and learning materials that center student belonging and access alongside mathematical rigor, with particular focus on developmental and gateway mathematics contexts.</li>
+
 
 
 
@@ -109,7 +111,9 @@
 
 
 
+
 <li><b>Mathematical Identity &amp; Engagement:</b> I investigate how students &#8212; particularly adult learners and those in workforce programs &#8212; construct or reconstruct their identities as mathematical thinkers, and how instructional environments mediate that process.</li>
+
 
 
 
@@ -119,7 +123,9 @@
 
 
 
+
 <li><b>Supplemental Instruction &amp; Peer Learning:</b> I design and facilitate peer-assisted learning structures that improve outcomes in high-enrollment gateway courses.</li>
+
 
 
 
@@ -127,10 +133,12 @@
 </ul>
 
 
+
 </grid-plate>
 <h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs" id="h2--757773578">Prior Experiences and Accomplishments</h2>
 <lrndesign-timeline accent-color="grey" timeline-size="sm" responsive-width="840" timeline-title="Prior Training and Accomplishments" events="[{&quot;heading&quot;:&quot;2025 — AERA Annual Meeting&quot;,&quot;details&quot;:&quot;Presenting at the American Educational Research Association's annual meeting placed my work in dialogue with the broadest and most diverse audience I had yet encountered as a scholar. Co-authored with my faculty mentor, the poster examined equity infrastructure in workforce mathematics curriculum design, and the feedback I received from researchers working in adjacent areas opened new directions I am still following.&quot;,&quot;imagealt&quot;:&quot;Propfile illustration of, James Pollock, Governor of Pennsylvania 1855-1858.&quot;,&quot;imagesrc&quot;:&quot;https://upload.wikimedia.org/wikipedia/commons/5/56/James_Pollock_Pennsylvania_Governor.jpg&quot;},{&quot;heading&quot;:&quot;2024 — Manuscript Submitted&quot;,&quot;details&quot;:&quot;I submitted my first sole-authored manuscript for peer review, examining how adult mathematics learners reconstruct their mathematical identities through narrative. The submission marked a significant milestone — moving from writing about research in coursework to contributing to the scholarly conversation. The waiting, revising, and uncertainty that followed have been their own kind of professional education.&quot;,&quot;imagealt&quot;:&quot;Black and white photo original Old Main in an empty field.&quot;,&quot;imagesrc&quot;:&quot;https://libraries.psu.edu/sites/default/files/migrated/1287768717666.jpg&quot;},{&quot;heading&quot;:&quot;2024 — PSU Research Grant&quot;,&quot;details&quot;:&quot;I was awarded the Penn State Graduate Research Development Grant ($2,500). This competitive internal grant will support the pilot phase of my thesis research: a curriculum redesign study in a workforce mathematics context grounded in equity-centered design principles. The grant funded participant recruitment, material development, and data collection, and represented my first experience navigating the full lifecycle of a funded research project from proposal to implementation.&quot;,&quot;imagesrc&quot;:&quot;&quot;},{&quot;heading&quot;:&quot;2023 — PCTM Annual Conference&quot;,&quot;details&quot;:&quot;Presenting at the Pennsylvania Council of Teachers of Mathematics conference was my first experience bringing my work to a professional audience of practitioners. The conversation that followed my presentation — with classroom teachers, instructional coaches, and curriculum coordinators — reinforced my commitment to research that speaks across the theory-practice divide, and sharpened my thinking about how to communicate scholarly ideas without losing their substance.&quot;,&quot;imagesrc&quot;:&quot;&quot;},{&quot;imagesrc&quot;:&quot;&quot;,&quot;heading&quot;:&quot;2023 — Research Fellowship&quot;,&quot;details&quot;:&quot;Receiving this fellowship provided dedicated support for my emerging research agenda and signaled departmental recognition of the scholarly direction I was pursuing. It gave me protected time to develop my thesis framework and to engage more deeply with the literature on mathematical identity and equity-centered curriculum design.&quot;},{&quot;imagesrc&quot;:&quot;&quot;,&quot;heading&quot;:&quot;2019 — Informal Peer Tutoring&quot;,&quot;details&quot;:&quot;Before I had any formal role as an educator, I began helping classmates who were struggling in developmental math courses. These informal sessions — often at a whiteboard in the library or over coffee between classes — were where I first discovered that I had a genuine instinct for explanation, and that I cared deeply about whether the person across from me actually understood, not just whether they could get to the right answer.&quot;}]"></lrndesign-timeline>
 <grid-plate item-margin="16" item-padding="16" layout="1-1" disable-responsive><h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs" slot="col-1">Certifications, Publications, and Presentations</h2><p slot="col-1">Column one content to replace</p><h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs" slot="col-2">Academic and Technical Skills</h2><p slot="col-2">Column two content to replace</p></grid-plate>
+<h2 data-style-guide="headline" data-design-treatment="vert" data-primary="8" data-padding="xs" data-border-radius="xs">Future Professional Aspirations</h2>
  ]]>
     </content>
   </entry>
