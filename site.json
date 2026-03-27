@@ -224,16 +224,16 @@
             "order": 4,
             "parent": null,
             "title": "Publications",
-            "description": "",
+            "description": "Ladson-Billings, G. (2021). Culturally relevant pedagogy 2.0: a.k.a. the remix. Harvard Educational Review, 91(1), 1\u201325. https:\/\/doi.org\/10.17763\/1943-5045-91.1.1Boaler, J. (2017). Mathematical mi",
             "metadata": {
                 "created": "1772487343",
-                "updated": 1774478500,
+                "updated": 1774629634,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1,
                 "status": ""
             }
         }

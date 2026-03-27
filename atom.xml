@@ -105,14 +105,19 @@
   <entry>
     <title>Publications</title>
     <id>item-2d9d2166-d526-44a9-ae42-bf9fc431d8e7</id>
-    <updated>2026-03-25T18:41:40-04:00</updated>
+    <updated>2026-03-27T12:40:34-04:00</updated>
     <published>2026-03-02T16:35:43-05:00</published>
-    <summary></summary>
+    <summary>Ladson-Billings, G. (2021). Culturally relevant pedagogy 2.0: a.k.a. the remix. Harvard Educational Review, 91(1), 1–25. https://doi.org/10.17763/1943-5045-91.1.1Boaler, J. (2017). Mathematical mi</summary>
     <link href="https://haxcms.ddev.site/sites/graduate-portfolio-template/publications"/>
     
     <content type="html">
       <![CDATA[ 
-<p></p>
+<learning-component subtitle="2021 (1)" type=""><p>Ladson-Billings, G. (2021). Culturally relevant pedagogy 2.0: a.k.a. the remix. Harvard Educational Review, 91(1), 1–25. https://doi.org/10.17763/1943-5045-91.1.1</p></learning-component>
+<learning-component subtitle="2017 (2)" type=""><p>Boaler, J. (2017). Mathematical mindsets: Unleashing students’ potential through creative math, inspiring messages, and innovative teaching. Jossey-Bass.</p><p>Paris, D., &amp; Alim, H. S. (2017). Culturally sustaining pedagogies: Teaching and learning for justice in a changing world. Teachers College Press.</p></learning-component>
+<learning-component subtitle="2011 (1)" type=""><p>Skovsmose, O. (2011). An invitation to critical mathematics education. Sense Publishers.</p></learning-component>
+<learning-component subtitle="2008 (1)" type="">  <p>Nasir, N. S., &amp; Hand, V. (2008). From the court to the classroom: Opportunities for engagement, learning, and identity in basketball and classroom mathematics. Journal of the Learning Sciences, 17(2), 143–179. https://doi.org/10.1080/10508400801986108</p>
+</learning-component>
+<learning-component subtitle="2006 (1)" type="">    <p>Gutstein, E. (2006). Reading and writing the world with mathematics: Toward a pedagogy for social justice. Routledge.</p></learning-component>
  ]]>
     </content>
   </entry>
